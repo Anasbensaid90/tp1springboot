@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/api ensmr.iml" filepath="$PROJECT_DIR$/.idea/api ensmr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-ensmr/api-ensmr.iml" filepath="$PROJECT_DIR$/api-ensmr/api-ensmr.iml" />
     </modules>
   </component>
 </project>
